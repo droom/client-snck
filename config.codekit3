@@ -4,7 +4,7 @@
     {
       "name" : "Process All Remaining Files and Folders",
       "stepType" : 1,
-      "uuidString" : "D5AFAE10-4A1F-4CF7-87F3-3B7E1487A46C"
+      "uuidString" : "3C15EE8E-30A2-4642-9319-827858EC9062"
     }
   ],
   "creatorBuild" : "34627",
@@ -110,32 +110,32 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/donate.html",
-      "oF" : 2
+      "oAP" : "\/src\/donate.html",
+      "oF" : 0
     },
     "\/src\/faq.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/faq.html",
-      "oF" : 2
+      "oAP" : "\/src\/faq.html",
+      "oF" : 0
     },
     "\/src\/gdpr.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/gdpr.html",
-      "oF" : 2
+      "oAP" : "\/src\/gdpr.html",
+      "oF" : 0
     },
     "\/src\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/index.html",
-      "oF" : 2
+      "oAP" : "\/src\/index.html",
+      "oF" : 0
     },
     "\/src\/partials\/head.kit" : {
       "cB" : 0,
@@ -161,8 +161,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/css\/main.css",
-      "oF" : 2,
+      "oAP" : "\/src\/scss\/main.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0
     },
@@ -171,16 +171,16 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/timetable.html",
-      "oF" : 2
+      "oAP" : "\/src\/timetable.html",
+      "oF" : 0
     },
     "\/src\/updates.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/updates.html",
-      "oF" : 2
+      "oAP" : "\/src\/updates.html",
+      "oF" : 0
     }
   },
   "hooks" : [
@@ -190,10 +190,10 @@
 
   },
   "projectAttributes" : {
-    "creationDate" : 758667647.78800201,
-    "displayValue" : "snck",
+    "creationDate" : 758811490.12651098,
+    "displayValue" : "client-snck",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "brackets-pink",
+    "iconImageName" : "brackets_gray",
     "iconImageWasSetByUser" : 0
   },
   "projectSettings" : {
